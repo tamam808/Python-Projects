@@ -2,7 +2,6 @@
 These are basic projects written in Python. They use various modules such as tkinter or sqlite3.
 
 <h2>Projects:</h2>
-<hr>
 <ul>
   <li>Phonebook</li>
   <li>Check Files Gui</li>
