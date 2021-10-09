@@ -3,7 +3,7 @@ These are basic projects written in Python. They use various modules such as tki
 
 <h2>Projects:</h2>
 <ul>
-  <li><a href="./"Phonebook</li>
+  <li><a href="./">Phonebook</a></li>
   <li>Check Files Gui</li>
   <li><a href=""./webpage_gui.py/">Basic HTML Generator</a></li>
 </ul>
