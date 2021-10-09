@@ -8,7 +8,7 @@ These are basic projects written in Python. They use various modules such as tki
 </ul>
 <br>
 <h3>Check Files Gui</h3>
-This project allows the user to choose transfer all .txt files from one chosen directory to another. <br>All filse that are moved will be saved in a database.
+This project allows the user to choose transfer all .txt files from one chosen directory to another. <br>All files that are moved will be saved in a database.
 <br>
 <h3>Basic HTML Generator</h3>
 
