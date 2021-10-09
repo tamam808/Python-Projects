@@ -5,7 +5,7 @@ These are basic projects written in Python. They use various modules such as tki
 <ul>
   <li><a href="./">Phonebook</a></li>
   <li>Check Files Gui</li>
-  <li><a href=""./webpage_gui.py/">Basic HTML Generator</a></li>
+  <li><a href="./webpage_gui.py/">Basic HTML Generator</a></li>
 </ul>
 <br>
 <h3>Phonebook</h3>
